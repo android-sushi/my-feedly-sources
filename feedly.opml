@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>android_sushi subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="高頻度" title="高頻度">
+            <outline type="rss" text="セキュリティ／ネットワーク | 調査のチカラ" title="セキュリティ／ネットワーク | 調査のチカラ" xmlUrl="http://chosa.itmedia.co.jp/categories/network/rss" htmlUrl="http://chosa.itmedia.co.jp/categories/network"/>
+            <outline type="rss" text="AKIBA PC Hotline!" title="AKIBA PC Hotline!" xmlUrl="http://akiba-pc.watch.impress.co.jp/cda/rss/akiba-pc.rdf" htmlUrl="https://akiba-pc.watch.impress.co.jp"/>
+            <outline type="rss" text="ペイメントナビ" title="ペイメントナビ" xmlUrl="http://www.paymentnavi.com/feed" htmlUrl="https://paymentnavi.com"/>
+            <outline type="rss" text="TechCrunch Japan" title="TechCrunch Japan" xmlUrl="http://jp.techcrunch.com/feed/" htmlUrl="https://jp.techcrunch.com"/>
+            <outline type="rss" text="ITmedia NEWS セキュリティ 最新記事一覧" title="ITmedia NEWS セキュリティ 最新記事一覧" xmlUrl="http://rss.itmedia.co.jp/rss/2.0/news_security.xml" htmlUrl="https://www.itmedia.co.jp/news/security/"/>
+            <outline type="rss" text="Business Insider Japan" title="Business Insider Japan" xmlUrl="https://www.businessinsider.jp/feed/index.xml" htmlUrl="https://www.businessinsider.jp"/>
+            <outline type="rss" text="AV Watch" title="AV Watch" xmlUrl="https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf" htmlUrl="https://av.watch.impress.co.jp"/>
+            <outline type="rss" text="ライフハッカー［日本版］" title="ライフハッカー［日本版］" xmlUrl="http://www.lifehacker.jp/index.xml" htmlUrl="https://www.lifehacker.jp"/>
+            <outline type="rss" text="窓の杜" title="窓の杜" xmlUrl="http://www.forest.impress.co.jp/rss.xml" htmlUrl="https://forest.watch.impress.co.jp"/>
+            <outline type="rss" text="エルミタージュ秋葉原エルミタージュ秋葉原" title="エルミタージュ秋葉原エルミタージュ秋葉原" xmlUrl="http://www.gdm.or.jp/feed" htmlUrl="https://www.gdm.or.jp"/>
+            <outline type="rss" text="GIGAZINE" title="GIGAZINE" xmlUrl="http://gigazine.net/index.php?/news/rss_2.0/" htmlUrl="https://gigazine.net/"/>
+            <outline type="rss" text="ギズモード・ジャパン" title="ギズモード・ジャパン" xmlUrl="http://www.gizmodo.jp/index.xml" htmlUrl="https://www.gizmodo.jp"/>
+            <outline type="rss" text="MMD研究所" title="MMD研究所" xmlUrl="http://mmdlabo.jp/index.xml" htmlUrl="https://mmdlabo.jp"/>
+            <outline type="rss" text="BCN＋R" title="BCN＋R" xmlUrl="https://www.bcnretail.com/RSS.rdf"/>
+            <outline type="rss" text="CNET Japan 最新情報　総合" title="CNET Japan 最新情報　総合" xmlUrl="http://feed.japan.cnet.com/rss/index.rdf" htmlUrl="https://japan.cnet.com"/>
+            <outline type="rss" text="デジカメ Watch" title="デジカメ Watch" xmlUrl="http://dc.watch.impress.co.jp/cda/rss/digicame.rdf" htmlUrl="https://dc.watch.impress.co.jp"/>
+            <outline type="rss" text="PHILE WEB 総合" title="PHILE WEB 総合" xmlUrl="http://www.phileweb.com/rss.php" htmlUrl="http://www.phileweb.com/"/>
+            <outline type="rss" text="スラド" title="スラド" xmlUrl="http://slashdot.jp/slashdotjp.rss" htmlUrl="https://srad.jp/"/>
+            <outline type="rss" text="＠IT 全フォーラム 最新記事一覧" title="＠IT 全フォーラム 最新記事一覧" xmlUrl="http://www.atmarkit.co.jp/rss/rss091.xml" htmlUrl="https://www.atmarkit.co.jp/"/>
+            <outline type="rss" text="ITmedia TOP STORIES 最新記事一覧" title="ITmedia TOP STORIES 最新記事一覧" xmlUrl="http://rss.itmedia.co.jp/rss/1.0/topstory.xml" htmlUrl="https://www.itmedia.co.jp/news/fortop/"/>
+            <outline type="rss" text="総務省 ホームページ新着情報" title="総務省 ホームページ新着情報" xmlUrl="http://www.soumu.go.jp/news.rdf" htmlUrl="https://www.soumu.go.jp/"/>
+            <outline type="rss" text="週刊アスキー - 週アスのITニュースサイト" title="週刊アスキー - 週アスのITニュースサイト" xmlUrl="http://weekly.ascii.jp/cate/1/rss.xml" htmlUrl="https://weekly.ascii.jp/"/>
+            <outline type="rss" text="business network.jp 新着記事" title="business network.jp 新着記事" xmlUrl="http://businessnetwork.jp/DesktopModules/BusinessNetwork_Rss/BusinessNetwork_Rss.aspx?rss=1" htmlUrl="https://businessnetwork.jp"/>
+            <outline type="rss" text="Techable（テッカブル） -海外・国内のネットベンチャー系ニュースサイト" title="Techable（テッカブル） -海外・国内のネットベンチャー系ニュースサイト" xmlUrl="http://techable.jp/feed" htmlUrl="https://techable.jp"/>
+            <outline type="rss" text="Watch Headline" title="Watch Headline" xmlUrl="http://www.watch.impress.co.jp/headline/rss/headline.rdf" htmlUrl="https://www.watch.impress.co.jp"/>
+            <outline type="rss" text="All About [携帯電話・スマートフォン]" title="All About [携帯電話・スマートフォン]" xmlUrl="http://rss.allabout.co.jp/aa/latest/ch/mobile/" htmlUrl="https://rss.allabout.co.jp/aa/latest/ch/mobile/"/>
+            <outline type="rss" text="MONOist 最新記事一覧" title="MONOist 最新記事一覧" xmlUrl="http://monoist.atmarkit.co.jp/rss/rss.xml" htmlUrl="https://monoist.atmarkit.co.jp/"/>
+            <outline type="rss" text="Engadget Japan Summary RSS" title="Engadget Japan Summary RSS" xmlUrl="http://feeds.feedburner.com/engadget/japanese" htmlUrl="http://japanese.engadget.com/"/>
+            <outline type="rss" text="ITmedia NEWS 科学・テクノロジー 最新記事一覧" title="ITmedia NEWS 科学・テクノロジー 最新記事一覧" xmlUrl="http://rss.itmedia.co.jp/rss/2.0/news_technology.xml" htmlUrl="https://www.itmedia.co.jp/news/technology/"/>
+            <outline type="rss" text="PC Watch" title="PC Watch" xmlUrl="http://pc.watch.impress.co.jp/sublink/pc.rdf" htmlUrl="https://pc.watch.impress.co.jp"/>
+            <outline type="rss" text="Yahoo!ニュース・トピックス - IT" title="Yahoo!ニュース・トピックス - IT" xmlUrl="http://news.yahoo.co.jp/pickup/computer/rss.xml" htmlUrl="https://news.yahoo.co.jp/categories/it"/>
+            <outline type="rss" text="ITmedia PC USER 最新記事一覧" title="ITmedia PC USER 最新記事一覧" xmlUrl="http://rss.itmedia.co.jp/rss/1.0/pcupdate.xml" htmlUrl="https://www.itmedia.co.jp/pcuser/"/>
+            <outline type="rss" text="GAME Watch" title="GAME Watch" xmlUrl="http://game.watch.impress.co.jp/sublink/game.rdf" htmlUrl="https://game.watch.impress.co.jp"/>
+            <outline type="rss" text="ITmedia PC・AV・スマートフォン 最新記事一覧" title="ITmedia PC・AV・スマートフォン 最新記事一覧" xmlUrl="http://rss.itmedia.co.jp/rss/1.0/plusd.xml" htmlUrl="https://www.itmedia.co.jp/"/>
+            <outline type="rss" text="4Gamer.net − スマートフォン最新記事" title="4Gamer.net − スマートフォン最新記事" xmlUrl="http://www.4gamer.net/rss/smartphone/smartphone_index.xml" htmlUrl="http://www.4gamer.net/"/>
+        </outline>
+        <outline text="まとめ" title="まとめ"/>
+        <outline text="高頻度ブログ" title="高頻度ブログ">
+            <outline type="rss" text="S-MAX" title="S-MAX" xmlUrl="http://s-max.jp/index.rdf" htmlUrl="https://s-max.jp/"/>
+            <outline type="rss" text="ゴリミー" title="ゴリミー" xmlUrl="http://gori.me/feed" htmlUrl="https://gori.me"/>
+            <outline type="rss" text="そうすけブログ.com" title="そうすけブログ.com" xmlUrl="http://sosukeblog.com/feed/" htmlUrl="https://sosukeblog.com"/>
+            <outline type="rss" text="phablet.jp (ファブレット.jp)" title="phablet.jp (ファブレット.jp)" xmlUrl="http://phablet.jp/?feed=rss2" htmlUrl="https://phablet.jp"/>
+            <outline type="rss" text="Dream Seed." title="Dream Seed." xmlUrl="http://feeds.feedburner.com/Dream-seed" htmlUrl="https://www.dream-seed.com/weblog"/>
+            <outline type="rss" text="携帯総合研究所" title="携帯総合研究所" xmlUrl="http://mobilelaby.com/feed" htmlUrl="https://mobilelaby.com"/>
+            <outline type="rss" text="OREFOLDER" title="OREFOLDER" xmlUrl="http://www.orefolder.net/feed" htmlUrl="https://www.orefolder.net"/>
+            <outline type="rss" text="すまほん!!" title="すまほん!!" xmlUrl="http://feeds.feedburner.com/AlphaDevice" htmlUrl="https://smhn.info"/>
+            <outline type="rss" text="AAPL Ch." title="AAPL Ch." xmlUrl="http://applech2.com/index.rdf" htmlUrl="https://applech2.com"/>
+            <outline type="rss" text="ウインタブ Windows タブレット情報" title="ウインタブ Windows タブレット情報" xmlUrl="http://win-tab.net/feed/" htmlUrl="https://win-tab.net"/>
+            <outline type="rss" text="気になる、記になる…" title="気になる、記になる…" xmlUrl="http://feeds.feedburner.com/taisy0" htmlUrl="https://taisy0.com"/>
+            <outline type="rss" text="MACお宝鑑定団 blog（羅針盤）" title="MACお宝鑑定団 blog（羅針盤）" xmlUrl="http://feeds2.feedburner.com/macotakara/fMAL" htmlUrl="http://www.macotakara.jp/blog/"/>
+            <outline type="rss" text="blog of mobile" title="blog of mobile" xmlUrl="http://blogofmobile.com/feed" htmlUrl="http://blogofmobile.com"/>
+            <outline type="rss" text="Jetstream BLOG" title="Jetstream BLOG" xmlUrl="http://jetstream.bz/feed/" htmlUrl="https://jetstream.bz"/>
+            <outline type="rss" text="AUTOMATON" title="AUTOMATON" xmlUrl="http://jp.automaton.am/articles/rss/latest/" htmlUrl="https://automaton-media.com"/>
+        </outline>
+        <outline text="投稿サイト" title="投稿サイト">
+            <outline type="rss" text="Qiita - 人気の記事" title="Qiita - 人気の記事" xmlUrl="http://qiita.com/popular-items/feed" htmlUrl="https://qiita.com/popular-items"/>
+            <outline type="rss" text="Pythonタグが付けられた新着記事 - Qiita" title="Pythonタグが付けられた新着記事 - Qiita" xmlUrl="http://qiita.com/tags/Python/feed.atom" htmlUrl="https://qiita.com"/>
+            <outline type="rss" text="Zennのトレンド" title="Zennのトレンド" xmlUrl="https://zenn.dev/feed" htmlUrl="https://zenn.dev"/>
+            <outline type="rss" text="新人プログラマ応援タグが付けられた新着記事 - Qiita" title="新人プログラマ応援タグが付けられた新着記事 - Qiita" xmlUrl="http://qiita.com/tags/%E6%96%B0%E4%BA%BA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E5%BF%9C%E6%8F%B4/feed" htmlUrl="https://qiita.com"/>
+            <outline type="rss" text="VisualStudioCodeタグが付けられた新着記事 - Qiita" title="VisualStudioCodeタグが付けられた新着記事 - Qiita" xmlUrl="http://qiita.com/tags/VisualStudioCode/feed" htmlUrl="https://qiita.com"/>
+            <outline type="rss" text="RaspberryPiタグが付けられた新着記事 - Qiita" title="RaspberryPiタグが付けられた新着記事 - Qiita" xmlUrl="http://qiita.com/tags/raspberrypi/feed" htmlUrl="https://qiita.com"/>
+        </outline>
+        <outline text="高頻度モバイル" title="高頻度モバイル">
+            <outline type="rss" text="ケータイ Watch" title="ケータイ Watch" xmlUrl="http://k-tai.impress.co.jp/cda/rss/ktai.rdf" htmlUrl="https://k-tai.watch.impress.co.jp"/>
+            <outline type="rss" text="マイナビニュース デジタル" title="マイナビニュース デジタル" xmlUrl="https://news.mynavi.jp/rss/digital/kaden.xml" htmlUrl="https://news.mynavi.jp/top/digital/kaden/"/>
+            <outline type="rss" text="ITmedia Mobile 最新記事一覧" title="ITmedia Mobile 最新記事一覧" xmlUrl="http://rss.itmedia.co.jp/rss/1.0/mobile.xml" htmlUrl="https://www.itmedia.co.jp/mobile/"/>
+            <outline type="rss" text="INTERNET Watch" title="INTERNET Watch" xmlUrl="http://internet.watch.impress.co.jp/cda/rss/internet.rdf" htmlUrl="https://internet.watch.impress.co.jp"/>
+            <outline type="rss" text="IT（情報技術） - 日経 xTECH（クロステック）" title="IT（情報技術） - 日経 xTECH（クロステック）" xmlUrl="http://tech.nikkeibp.co.jp/rss/xtech-it.rdf" htmlUrl="https://xtech.nikkei.com/top/it/"/>
+        </outline>
+        <outline text="特価" title="特価">
+            <outline type="rss" text="安いぞ!激安特価ニュース速報" title="安いぞ!激安特価ニュース速報" xmlUrl="http://specialprice777.blog.fc2.com/?xml" htmlUrl="https://specialprice777.blog.fc2.com/"/>
+            <outline type="rss" text="激安速報 特価品伝道者" title="激安速報 特価品伝道者" xmlUrl="http://gekiyasu-gekiyasu.doorblog.jp/index.rdf" htmlUrl="https://gekiyasu-gekiyasu.doorblog.jp/"/>
+            <outline type="rss" text="ニュー節約速報" title="ニュー節約速報" xmlUrl="http://setusoku.com/feed/" htmlUrl="http://setusoku.com"/>
+            <outline type="rss" text="激安★超特価商店街" title="激安★超特価商店街" xmlUrl="http://buy.livedoor.biz/index.rdf" htmlUrl="http://buy.livedoor.biz/"/>
+        </outline>
+        <outline text="企業" title="企業">
+            <outline type="rss" text="NTTドコモ 全ての新着情報" title="NTTドコモ 全ての新着情報" xmlUrl="http://www.nttdocomo.co.jp/info/rss/whatsnew.rdf" htmlUrl="https://www.nttdocomo.co.jp/info/index.html"/>
+            <outline type="rss" text="Wiko Handy und Smartphones News" title="Wiko Handy und Smartphones News" xmlUrl="http://www.wikoblog.de/feed/" htmlUrl="https://www.wikoblog.de"/>
+            <outline type="rss" text="Sony Marketing" title="Sony Marketing" xmlUrl="http://www.sonymobile.co.jp/rss/whatsnew.xml" htmlUrl="https://xperia.sony.jp/"/>
+            <outline type="rss" text="News Center Japan" title="News Center Japan" xmlUrl="http://www.microsoft.com/japan/presspass/rss/rss.aspx" htmlUrl="https://news.microsoft.com/ja-jp"/>
+            <outline type="rss" text="Google Japan Blog" title="Google Japan Blog" xmlUrl="http://googlejapan.blogspot.com/atom.xml" htmlUrl="http://japan.googleblog.com/"/>
+            <outline type="rss" text="トリニティ" title="トリニティ" xmlUrl="https://trinity.jp/feed/" htmlUrl="https://trinity.jp"/>
+            <outline type="rss" text="統合版 JPCERT/CC RSS" title="統合版 JPCERT/CC RSS" xmlUrl="http://www.jpcert.or.jp/rss/jpcert-all.rdf" htmlUrl="https://www.jpcert.or.jp/"/>
+            <outline type="rss" text="消費者庁・新着情報" title="消費者庁・新着情報" xmlUrl="http://www.caa.go.jp/news.rss" htmlUrl="https://www.caa.go.jp/"/>
+            <outline type="rss" text="KDDI ニュースリリース" title="KDDI ニュースリリース" xmlUrl="http://news.kddi.com/kddi/corporate/newsrelease/rss/kddi_news_release.xml" htmlUrl="http://www.kddi.com/corporate/newsrelease/2021/index.html"/>
+            <outline type="rss" text="Covia » お知らせ フィード" title="Covia » お知らせ フィード" xmlUrl="http://www.covia.co.jp/news/feed/" htmlUrl="http://www.covia.co.jp"/>
+            <outline type="rss" text="LG NEWSROOM" title="LG NEWSROOM" xmlUrl="http://www.lgnewsroom.com/feed/" htmlUrl="http://www.lgnewsroom.com"/>
+            <outline type="rss" text="Apple Newsroom" title="Apple Newsroom" xmlUrl="http://www.apple.com/jp/pr/feeds/pr.rss" htmlUrl="https://www.apple.com/jp/newsroom/"/>
+            <outline type="rss" text="[ニュースリリース] ソニーグループ" title="[ニュースリリース] ソニーグループ" xmlUrl="http://www.sony.co.jp/SonyInfo/News/Press/data/pressrelease_group.xml" htmlUrl="https://www.sony.com/ja/SonyInfo/News/Press/"/>
+            <outline type="rss" text="LINE MOBILE 公式ブログ" title="LINE MOBILE 公式ブログ" xmlUrl="http://mobile-blog.line.me/index.rdf" htmlUrl="https://mobile-blog.line.me/"/>
+            <outline type="rss" text="au トピックス" title="au トピックス" xmlUrl="http://www.au.kddi.com/news/topics/kddi_au_topics.xml" htmlUrl="https://www.au.com/"/>
+            <outline type="rss" text="Edge Up" title="Edge Up" xmlUrl="https://edgeup.asus.com/feed/" htmlUrl="https://edgeup.asus.com"/>
+            <outline type="rss" text="Kinza 開発ブログ" title="Kinza 開発ブログ" xmlUrl="http://www.kinza.jp/blog/feed/" htmlUrl="https://www.kinza.jp/blog"/>
+            <outline type="rss" text="Samsungmobilepress.com - Press release" title="Samsungmobilepress.com - Press release" xmlUrl="http://www.samsungmobilepress.com/pressrss.xml" htmlUrl="http://www.samsungmobilepress.com/home"/>
+            <outline type="rss" text="プレスリリース - ソフトバンク株式会社" title="プレスリリース - ソフトバンク株式会社" xmlUrl="http://www.softbank.jp/corp/news/press/all/index.rdf" htmlUrl="https://www.softbank.jp/corp/news/press/all/"/>
+            <outline type="rss" text="au スマートフォン・携帯電話 トピックス" title="au スマートフォン・携帯電話 トピックス" xmlUrl="http://www.au.kddi.com/info/topics/rss/au_topics.xml" htmlUrl="https://www.au.com/mobile.html"/>
+            <outline type="rss" text="NTTドコモ 報道発表資料" title="NTTドコモ 報道発表資料" xmlUrl="http://www.nttdocomo.co.jp/info/rss/news_release.rdf" htmlUrl="https://www.nttdocomo.co.jp/info/news_release/index.html"/>
+            <outline type="rss" text="NTTドコモ テクニカル・ジャーナル情報" title="NTTドコモ テクニカル・ジャーナル情報" xmlUrl="https://www.nttdocomo.co.jp/corporate/technology/rd/rss/rdnews.rdf" htmlUrl="https://www.nttdocomo.co.jp/corporate/technology/rd/technical_journal/index.html"/>
+            <outline type="rss" text="最新のニュースリリース：シャープ" title="最新のニュースリリース：シャープ" xmlUrl="http://www.sharp.co.jp/corporate/news/rss.xml" htmlUrl="https://corporate.jp.sharp/news/"/>
+            <outline type="rss" text="新着情報 | ニュース・お知らせ" title="新着情報 | ニュース・お知らせ" xmlUrl="http://www.softbank.jp/mobile/info/personal/index.xml"/>
+            <outline type="rss" text="IIJ" title="IIJ" xmlUrl="http://www.iij.ad.jp/rss-temp/devinfo/index.xml" htmlUrl="https://www.iij.ad.jp/index.html"/>
+            <outline type="rss" text="Hint" title="Hint" xmlUrl="http://www.galaxymobile.jp/api/rss/hint" htmlUrl="https://www.galaxymobile.jp"/>
+            <outline type="rss" text="LINE公式ブログ" title="LINE公式ブログ" xmlUrl="http://lineblog.naver.jp/index.rdf" htmlUrl="http://official-blog.line.me/ja/"/>
+            <outline type="rss" text="Samsung Global Newsroom" title="Samsung Global Newsroom" xmlUrl="http://global.samsungtomorrow.com/?feed=rss2" htmlUrl="https://news.samsung.com/global"/>
+            <outline type="rss" text="スマートフォン・携帯電話に関するお知らせ" title="スマートフォン・携帯電話に関するお知らせ" xmlUrl="http://www.notice.kddi.com/news/mainte/content/info/k/au_information.xml" htmlUrl="http://www.kddi.com/notice/index.html"/>
+            <outline type="rss" text="Microsoft News Japan" title="Microsoft News Japan" xmlUrl="http://microsoftnews.hatenablog.jp/feed" htmlUrl="https://microsoftnews.hatenablog.jp/"/>
+            <outline type="rss" text="Wi-Fi Alliance RSS Feed" title="Wi-Fi Alliance RSS Feed" xmlUrl="https://www.wi-fi.org/media.xml" htmlUrl="https://www.wi-fi.org/media.xml"/>
+            <outline type="rss" text="ASUS Press Room" title="ASUS Press Room" xmlUrl="http://press.asus.com/feed/" htmlUrl="http://press.asus.com"/>
+            <outline type="rss" text="スマートフォン・タブレット・携帯電話 - FMWORLD.NET（個人） : FCNT" title="スマートフォン・タブレット・携帯電話 - FMWORLD.NET（個人） : FCNT" xmlUrl="http://www.fmworld.net/product/phone/rss/top-news.xml" htmlUrl="http://www.fmworld.net/product/phone/"/>
+            <outline type="rss" text="au 製品アップデート情報" title="au 製品アップデート情報" xmlUrl="https://www.au.com/rss/update.xml" htmlUrl="https://www.au.com/information/notice_mobile/update.html"/>
+        </outline>
+        <outline text="海外" title="海外">
+            <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss-full.xml" htmlUrl="http://www.engadget.com"/>
+            <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed" htmlUrl="https://www.androidauthority.com"/>
+            <outline type="rss" text="9to5Google" title="9to5Google" xmlUrl="http://9to5google.com/feed/" htmlUrl="https://9to5google.com"/>
+            <outline type="rss" text="Xperia Blog" title="Xperia Blog" xmlUrl="http://feeds.feedburner.com/XperiaBlog" htmlUrl="http://www.xperiablog.net"/>
+            <outline type="rss" text="DIGITIMES: IT news from Asia" title="DIGITIMES: IT news from Asia" xmlUrl="http://www.digitimes.com/rss/daily.xml" htmlUrl="https://www.digitimes.com"/>
+            <outline type="rss" text="Android Police – Android news, reviews, apps, games, phones, tablets" title="Android Police – Android news, reviews, apps, games, phones, tablets" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com"/>
+            <outline type="rss" text="GadgetMatch" title="GadgetMatch" xmlUrl="http://www.gadgetmatch.com/feed/" htmlUrl="https://www.gadgetmatch.com"/>
+            <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
+            <outline type="rss" text="Pocket-lint : Cameras" title="Pocket-lint : Cameras" xmlUrl="http://www.pocket-lint.com/rss.phtml" htmlUrl="https://www.pocket-lint.com/rss/cameras/all.xml"/>
+            <outline type="rss" text="Gadgets 360" title="Gadgets 360" xmlUrl="http://gadgets.ndtv.com/rss/news" htmlUrl="https://gadgets.ndtv.com/"/>
+            <outline type="rss" text="PhoneArena  - News" title="PhoneArena  - News" xmlUrl="http://www.phonearena.com/rss/rss_news.php" htmlUrl="https://www.phonearena.com/"/>
+            <outline type="rss" text="xda-developers" title="xda-developers" xmlUrl="http://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com"/>
+            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
+        </outline>
+        <outline text="ブログ" title="ブログ">
+            <outline type="rss" text="理系-苦学部" title="理系-苦学部" xmlUrl="https://rikekugakubu.hateblo.jp/feed" htmlUrl="https://rikekugakubu.hateblo.jp/"/>
+            <outline type="rss" text="陸上養殖ラボ" title="陸上養殖ラボ" xmlUrl="https://www.raslab.net/feed/" htmlUrl="https://www.raslab.net"/>
+            <outline type="rss" text="いてんの仙台ラーメンBLOG" title="いてんの仙台ラーメンBLOG" xmlUrl="http://iten-ramen.blogspot.com/feeds/posts/default" htmlUrl="https://iten-ramen.blogspot.com/"/>
+            <outline type="rss" text="かえざくらのつぶやき" title="かえざくらのつぶやき" xmlUrl="https://www.kaesakura.com/feed/" htmlUrl="https://www.kaesakura.com"/>
+            <outline type="rss" text="HelenTech" title="HelenTech" xmlUrl="http://www.helentech.net/feed/" htmlUrl="https://www.helentech.net"/>
+            <outline type="rss" text="酒井潤公式ブログ" title="酒井潤公式ブログ" xmlUrl="http://sakaijun.blog.jp/index.rdf" htmlUrl="http://sakaijun.blog.jp/"/>
+            <outline type="rss" text="karahiro's Diary ~back of the flyer~" title="karahiro's Diary ~back of the flyer~" xmlUrl="https://karahiro.net/feed/" htmlUrl="https://karahiro.net"/>
+            <outline type="rss" text="ただの新しいモノ好き" title="ただの新しいモノ好き" xmlUrl="http://nattonn01.hatenablog.com/feed" htmlUrl="https://nattonn01.hatenablog.com/"/>
+            <outline type="rss" text="へるしーらいふ。" title="へるしーらいふ。" xmlUrl="http://helclife.exblog.jp/index.xml" htmlUrl="http://helclife.exblog.jp"/>
+            <outline type="rss" text="Geekles" title="Geekles" xmlUrl="http://sp-pedia.com/feed/" htmlUrl="https://geekles.net"/>
+            <outline type="rss" text="毎日ことば" title="毎日ことば" xmlUrl="https://mainichi-kotoba.jp/feed" htmlUrl="https://mainichi-kotoba.jp"/>
+            <outline type="rss" text="RSS" title="RSS" xmlUrl="https://mono-conque.st/index.xml" htmlUrl="https://mono-conque.st/"/>
+            <outline type="rss" text="ガジェットライフ" title="ガジェットライフ" xmlUrl="http://gadget-life.xyz/feed" htmlUrl="https://gadget-life.xyz"/>
+            <outline type="rss" text="mobile-gz" title="mobile-gz" xmlUrl="http://mobile-g.hatenablog.com/rss" htmlUrl="https://mobile-g.hatenablog.com/"/>
+            <outline type="rss" text="虚構新聞社（Kyoko Shimbun News）" title="虚構新聞社（Kyoko Shimbun News）" xmlUrl="http://kyoko-np.net/index.xml" htmlUrl="http://kyoko-np.net/"/>
+            <outline type="rss" text="Tech boy  blogs" title="Tech boy  blogs" xmlUrl="https://techboyblogs.com/feed/" htmlUrl="https://techboyblogs.com"/>
+            <outline type="rss" text="Progate Tech Blog" title="Progate Tech Blog" xmlUrl="https://tech.prog-8.com/feed" htmlUrl="https://tech.prog-8.com/"/>
+            <outline type="rss" text="ゆるガジェCHANNEL" title="ゆるガジェCHANNEL" xmlUrl="http://yurugadge-channel.com/index.rdf" htmlUrl="http://yurugadge-channel.com/"/>
+            <outline type="rss" text="mugyukkinの日記" title="mugyukkinの日記" xmlUrl="http://mugyukkin.hatenablog.com/feed" htmlUrl="https://mugyukkin.hatenablog.com/"/>
+            <outline type="rss" text="河童丸の妄言ブログLittleparty" title="河童丸の妄言ブログLittleparty" xmlUrl="http://kplparty.blog.fc2.com/?xml" htmlUrl="http://kplparty.blog.fc2.com/"/>
+            <outline type="rss" text="droSma" title="droSma" xmlUrl="https://drosma.net/feed/" htmlUrl="https://drosma.net"/>
+            <outline type="rss" text="スマフォ情報局" title="スマフォ情報局" xmlUrl="http://web.tank.jp/phone/?feed=rss2" htmlUrl="http://web.tank.jp/phone"/>
+            <outline type="rss" text="ぴすれの備忘録" title="ぴすれの備忘録" xmlUrl="http://pslet.hateblo.jp/feed" htmlUrl="https://pslet.hateblo.jp/"/>
+            <outline type="rss" text="AndMem" title="AndMem" xmlUrl="http://andmem.blogspot.com/feeds/posts/default" htmlUrl="https://andmem.blogspot.com/"/>
+            <outline type="rss" text="Chrome速報" title="Chrome速報" xmlUrl="http://chromesoku.com/feed/" htmlUrl="https://chromesoku.com"/>
+            <outline type="rss" text="juggly.cn" title="juggly.cn" xmlUrl="http://feeds.feedburner.com/Jugglycn" htmlUrl="http://juggly.cn"/>
+            <outline type="rss" text="きなこぱん" title="きなこぱん" xmlUrl="http://kinakopan.com/feed/" htmlUrl="https://kinakopan.com"/>
+            <outline type="rss" text="白ロム中古スマホ購入・節約法" title="白ロム中古スマホ購入・節約法" xmlUrl="http://shiromcom.exblog.jp/index.xml" htmlUrl="http://shiromcom.exblog.jp"/>
+            <outline type="rss" text="あんそくのおすすめ" title="あんそくのおすすめ" xmlUrl="http://ansoku.me/feed/" htmlUrl="https://ansoku.me"/>
+            <outline type="rss" text="紗々っちネーション" title="紗々っちネーション" xmlUrl="https://kanoayu.moe.hm/wordpress/feed/" htmlUrl="https://kanoayu.moe.hm/wordpress"/>
+            <outline type="rss" text="はんたり" title="はんたり" xmlUrl="https://www.hnkkznkk.com/feed/" htmlUrl="https://www.hnkkznkk.com"/>
+            <outline type="rss" text="Till0196のぼーびろく" title="Till0196のぼーびろく" xmlUrl="https://till0196.com/feed" htmlUrl="https://till0196.com"/>
+            <outline type="rss" text="いでぃあろーぐ" title="いでぃあろーぐ" xmlUrl="http://idealog.hatenablog.com/rss" htmlUrl="http://idealog.hatenablog.com/"/>
+            <outline type="rss" text="ASUS好きのZenBlog（ゼンブログ）" title="ASUS好きのZenBlog（ゼンブログ）" xmlUrl="http://asus.blog.jp/index.rdf" htmlUrl="https://asus.blog.jp/"/>
+            <outline type="rss" text="ガジェットギーク" title="ガジェットギーク" xmlUrl="http://ggeek.me/feed" htmlUrl="https://ggeek.me"/>
+            <outline type="rss" text="生活向上アンテナ" title="生活向上アンテナ" xmlUrl="http://sahara-star.net/seikatsu/?feed=rss2" htmlUrl="https://sahara-star.net/seikatsu"/>
+            <outline type="rss" text="paiza開発日誌" title="paiza開発日誌" xmlUrl="http://paiza.hatenablog.com/rss" htmlUrl="https://paiza.hatenablog.com/"/>
+            <outline type="rss" text="IIJ Engineers Blog" title="IIJ Engineers Blog" xmlUrl="http://eng-blog.iij.ad.jp/feed" htmlUrl="https://eng-blog.iij.ad.jp"/>
+            <outline type="rss" text="ちもろぐ" title="ちもろぐ" xmlUrl="http://chimolog.co/feed" htmlUrl="https://chimolog.co"/>
+            <outline type="rss" text="クリエイタークリップ" title="クリエイタークリップ" xmlUrl="https://creatorclip.info/feed/" htmlUrl="https://creatorclip.info"/>
+            <outline type="rss" text="クレジットカードの読みもの" title="クレジットカードの読みもの" xmlUrl="http://cards.hateblo.jp/feed" htmlUrl="https://news.cardmics.com/"/>
+            <outline type="rss" text="AI専門ニュースメディア AINOW" title="AI専門ニュースメディア AINOW" xmlUrl="http://ainow.ai/feed/" htmlUrl="https://ainow.ai"/>
+            <outline type="rss" text="らゆがじぇ！！" title="らゆがじぇ！！" xmlUrl="https://rayu0401.wordpress.com/feed/" htmlUrl="https://rayu0401.wordpress.com"/>
+            <outline type="rss" text="寝る子ブログ" title="寝る子ブログ" xmlUrl="http://nerukoblog.com/feed/" htmlUrl="https://nerukoblog.com"/>
+            <outline type="rss" text="道端の鳩" title="道端の鳩" xmlUrl="http://argos.hatenablog.com/feed" htmlUrl="https://argos.hatenablog.com/"/>
+            <outline type="rss" text="ガジェットTouch!" title="ガジェットTouch!" xmlUrl="http://gadget-touch.info/feed/" htmlUrl="https://gadget-touch.info"/>
+            <outline type="rss" text="テクノロジー観測所" title="テクノロジー観測所" xmlUrl="https://tec-obs.com/feed/" htmlUrl="https://tec-obs.com"/>
+            <outline type="rss" text="CuriousBox" title="CuriousBox" xmlUrl="http://curiousbox.net/feed/" htmlUrl="https://curiousbox.net"/>
+            <outline type="rss" text="黒翼猫のコンピュータ日記 2nd Edition" title="黒翼猫のコンピュータ日記 2nd Edition" xmlUrl="http://blog.livedoor.jp/blackwingcat/index.rdf" htmlUrl="http://blog.livedoor.jp/blackwingcat/"/>
+            <outline type="rss" text="Qiita Blog" title="Qiita Blog" xmlUrl="http://blog.qiita.com/rss" htmlUrl="https://blog.qiita.com"/>
+            <outline type="rss" text="株式会社アクシア" title="株式会社アクシア" xmlUrl="http://axia.co.jp/feed" htmlUrl="https://axia.co.jp"/>
+            <outline type="rss" text="ロクログ" title="ロクログ" xmlUrl="https://exe-rockman.net/feed/" htmlUrl="https://exe-rockman.net"/>
+            <outline type="rss" text="ガジェットショット" title="ガジェットショット" xmlUrl="http://gadget-shot.com/feed/" htmlUrl="https://gadget-shot.com"/>
+            <outline type="rss" text="ちえほんのガジェクラ" title="ちえほんのガジェクラ" xmlUrl="https://gajekura.com/feed" htmlUrl="https://gajekura.com"/>
+            <outline type="rss" text="モバイルドットコム" title="モバイルドットコム" xmlUrl="http://www.mobile-com.net/feed" htmlUrl="https://www.mobile-com.net"/>
+            <outline type="rss" text="たまねぎ雑記" title="たまねぎ雑記" xmlUrl="https://tmngkahun.hatenablog.jp/feed" htmlUrl="https://tmngkahun.hatenablog.jp/"/>
+            <outline type="rss" text="電子決済マガジン" title="電子決済マガジン" xmlUrl="http://epayments.jp/feed" htmlUrl="https://epayments.jp"/>
+            <outline type="rss" text="hitodeblog" title="hitodeblog" xmlUrl="https://hitodeblog.com/feed" htmlUrl="https://hitodeblog.com"/>
+            <outline type="rss" text="技術ブログとは" title="技術ブログとは" xmlUrl="https://www.ryuzoji.com/feed" htmlUrl="https://www.ryuzoji.com"/>
+            <outline type="rss" text="深夜2時の珈琲タイム" title="深夜2時の珈琲タイム" xmlUrl="http://tarokappa.hatenablog.com/feed" htmlUrl="http://tarokappa.hatenablog.com/"/>
+            <outline type="rss" text="幽玄会社中山商店" title="幽玄会社中山商店" xmlUrl="http://nakayama.tailwind.bz/?mode=rss" htmlUrl="http://nakayama.tailwind.bz"/>
+            <outline type="rss" text="デジタルガジェット備忘録" title="デジタルガジェット備忘録" xmlUrl="http://digital-memo.blogspot.com/feeds/posts/default" htmlUrl="https://digital-memo.blogspot.com/"/>
+            <outline type="rss" text="ブルーメソッド" title="ブルーメソッド" xmlUrl="http://blue-method.hatenablog.com/feed" htmlUrl="https://blue-method.hatenablog.com/"/>
+            <outline type="rss" text="ペイの実" title="ペイの実" xmlUrl="https://paynomi.com/feed" htmlUrl="https://paynomi.com"/>
+            <outline type="rss" text="Pottal-Portal" title="Pottal-Portal" xmlUrl="https://ma2motty.hatenadiary.jp/feed" htmlUrl="https://www.pottal-portal.com/"/>
+            <outline type="rss" text="tomokinのガジェット説明書" title="tomokinのガジェット説明書" xmlUrl="http://tomokin-gadget.com/?feed=rss2" htmlUrl="https://tomokin-gadget.com"/>
+            <outline type="rss" text="電脳にっき。" title="電脳にっき。" xmlUrl="https://digitaljr.hatenablog.com/feed" htmlUrl="https://digitaljr.hatenablog.com/"/>
+            <outline type="rss" text="マイネ王の新着情報" title="マイネ王の新着情報" xmlUrl="https://king.mineo.jp/feeds.atom" htmlUrl="https://king.mineo.jp"/>
+            <outline type="rss" text="Zukiの備忘録（Zukiのスマガジェ！）" title="Zukiの備忘録（Zukiのスマガジェ！）" xmlUrl="http://www.hyzuki.com/rss" htmlUrl="https://www.hyzuki.com/"/>
+            <outline type="rss" text="素人的備忘録" title="素人的備忘録" xmlUrl="http://sp9611.info/feed/" htmlUrl="https://sp9611.info"/>
+            <outline type="rss" text="ドーン・オブ・ザ・日記" title="ドーン・オブ・ザ・日記" xmlUrl="https://xcompact.wordpress.com/feed/" htmlUrl="https://xcompact.wordpress.com"/>
+            <outline type="rss" text="Peach Breeze" title="Peach Breeze" xmlUrl="http://www.peach-breeze.com/feeds/posts/default" htmlUrl="https://www.peach-breeze.com/"/>
+            <outline type="rss" text="Geekなぺーじ" title="Geekなぺーじ" xmlUrl="http://www.geekpage.jp/rss.php" htmlUrl="https://www.geekpage.jp/"/>
+            <outline type="rss" text="ひとりぶろぐ" title="ひとりぶろぐ" xmlUrl="http://hitoriblog.com/?feed=rss2" htmlUrl="http://hitoriblog.com"/>
+            <outline type="rss" text="Amazonの悪魔" title="Amazonの悪魔" xmlUrl="http://konozama.jp/amazon_devil/atom.xml" htmlUrl="https://konozama.jp/amazon_devil/"/>
+            <outline type="rss" text="ガジェマガ" title="ガジェマガ" xmlUrl="https://2week.net/feed/" htmlUrl="https://2week.net"/>
+            <outline type="rss" text="Gadget Seek" title="Gadget Seek" xmlUrl="https://www.gadget-seek.com/feed" htmlUrl="https://www.gadget-seek.com"/>
+            <outline type="rss" text="higeblog" title="higeblog" xmlUrl="https://www.higebu.com/feeds/all.atom.xml" htmlUrl="https://www.higebu.com/"/>
+            <outline type="rss" text="七宮さんの日記帳" title="七宮さんの日記帳" xmlUrl="https://polaris-x64.tokyo/index.php/feed/" htmlUrl="https://polaris-x64.tokyo"/>
+            <outline type="rss" text="Gadget and Radio" title="Gadget and Radio" xmlUrl="http://www.gadget-and-radio.com/feed/" htmlUrl="https://www.gadget-and-radio.com"/>
+            <outline type="rss" text="クレジットカード＆電子マネー情報【現金いらず.com】" title="クレジットカード＆電子マネー情報【現金いらず.com】" xmlUrl="http://no-genkin.com/feed/" htmlUrl="https://no-genkin.com"/>
+            <outline type="rss" text="HTC速報" title="HTC速報" xmlUrl="http://htcsoku.info/feed/" htmlUrl="http://htcsoku.info"/>
+            <outline type="rss" text="ゼロから始めるスマートフォン" title="ゼロから始めるスマートフォン" xmlUrl="http://www.datacider.com/feed/" htmlUrl="http://www.datacider.com"/>
+            <outline type="rss" text="でこにく" title="でこにく" xmlUrl="http://decoy284.net/feed/" htmlUrl="https://decoy284.net"/>
+            <outline type="rss" text="AndroPlus" title="AndroPlus" xmlUrl="https://androplus.org/feed/" htmlUrl="https://androplus.org"/>
+            <outline type="rss" text="てくろぐ" title="てくろぐ" xmlUrl="http://techlog.iij.ad.jp/feed" htmlUrl="https://techlog.iij.ad.jp"/>
+            <outline type="rss" text="Huawei通信 » フィード" title="Huawei通信 » フィード" xmlUrl="https://www.huawei-report.net/feed/" htmlUrl="https://www.huawei-report.net"/>
+            <outline type="rss" text="GAPSIS" title="GAPSIS" xmlUrl="http://feeds.feedburner.com/gapsis" htmlUrl="https://www.gapsis.jp/"/>
+            <outline type="rss" text="SLASHLEAKS" title="SLASHLEAKS" xmlUrl="http://www.slashleaks.com/feed" htmlUrl="http://www.slashleaks.com"/>
+            <outline type="rss" text="渋谷駅前で働くデータサイエンティストのブログ" title="渋谷駅前で働くデータサイエンティストのブログ" xmlUrl="http://tjo.hatenablog.com/feed" htmlUrl="https://tjo.hatenablog.com/"/>
+            <outline type="rss" text="Amazon アソシエイト・プログラム（アフィリエイト） 公式ブログ" title="Amazon アソシエイト・プログラム（アフィリエイト） 公式ブログ" xmlUrl="http://affiliate-blog.amazon.co.jp/atom.xml" htmlUrl="https://affiliate-blog.amazon.co.jp/"/>
+            <outline type="rss" text="elibom" title="elibom" xmlUrl="https://elibom.net/feed/" htmlUrl="https://elibom.net"/>
+            <outline type="rss" text="idomizu theatre" title="idomizu theatre" xmlUrl="https://idomizu.dev/feed" htmlUrl="https://idomizu.dev"/>
+            <outline type="rss" text="さいあの！" title="さいあの！" xmlUrl="http://www.saiano.com/feeds/posts/default?alt=rss" htmlUrl="http://www.saiano.com/"/>
+            <outline type="rss" text="ChinaR(ちなーる)" title="ChinaR(ちなーる)" xmlUrl="http://dapwithchinapad.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://www.chinadap.com/"/>
+            <outline type="rss" text="はいじん あんど しぃーく" title="はいじん あんど しぃーく" xmlUrl="http://blog.livedoor.jp/haijin_and_seek/index.rdf" htmlUrl="https://haijin.net/"/>
+            <outline type="rss" text="おでかけはお気に入りの端末とともに" title="おでかけはお気に入りの端末とともに" xmlUrl="http://okitan.jp/feed" htmlUrl="https://okitan.jp"/>
+            <outline type="rss" text="クロポンモビ" title="クロポンモビ" xmlUrl="https://kuropon.mobi/feed" htmlUrl="https://kuropon.mobi"/>
+            <outline type="rss" text="ReaMEIZU" title="ReaMEIZU" xmlUrl="http://reameizu.com/feed/" htmlUrl="https://reameizu.com"/>
+            <outline type="rss" text="Time to live forever" title="Time to live forever" xmlUrl="http://unsolublesugar.com/feed/" htmlUrl="https://unsolublesugar.com"/>
+            <outline type="rss" text="PCパーツ備忘録 MINI-ITX" title="PCパーツ備忘録 MINI-ITX" xmlUrl="http://akibatenm.net/feed/" htmlUrl="https://akibatenm.net"/>
+            <outline type="rss" text="ラウデルの庵・分室" title="ラウデルの庵・分室" xmlUrl="http://rssblog.ameba.jp/loudear/rss20.xml" htmlUrl="https://ameblo.jp/loudear/"/>
+            <outline type="rss" text="Citrus Breeze" title="Citrus Breeze" xmlUrl="https://www.blogger.com/feeds/7896311507475887543/posts/default" htmlUrl="http://citrus-breeze.blogspot.com/"/>
+            <outline type="rss" text="習志野ガベージコレクト" title="習志野ガベージコレクト" xmlUrl="https://narashinogarbagecollect.blogspot.com/feeds/posts/default" htmlUrl="https://narashinogarbagecollect.blogspot.com/"/>
+            <outline type="rss" text="GeekDays" title="GeekDays" xmlUrl="https://geekdays.jp/feed/" htmlUrl="https://geekdays.jp"/>
+            <outline type="rss" text="HanpenBlog" title="HanpenBlog" xmlUrl="http://hanpenblog.com/feed/" htmlUrl="https://hanpenblog.com"/>
+            <outline type="rss" text="野木菴" title="野木菴" xmlUrl="https://nokian1865.wordpress.com/feed/" htmlUrl="https://nokian1865.wordpress.com"/>
+            <outline type="rss" text="the比較 - パソコンやセキュリティソフトの比較レビュー＆おすすめ" title="the比較 - パソコンやセキュリティソフトの比較レビュー＆おすすめ" xmlUrl="http://www.the-hikaku.com/rss20.xml" htmlUrl="https://org.thehikaku.net/"/>
+            <outline type="rss" text="やんばるすぱいく » フィード" title="やんばるすぱいく » フィード" xmlUrl="https://yanbalspike.com/?feed=rss2" htmlUrl="https://yanbalspike.com"/>
+            <outline type="rss" text="せい塾" title="せい塾" xmlUrl="http://seijuku.com/feed" htmlUrl="https://seijuku.com"/>
+            <outline type="rss" text="わかめそばmogmog" title="わかめそばmogmog" xmlUrl="https://wakamesoba98.blogspot.com/feeds/posts/default" htmlUrl="https://wakamesoba98.blogspot.com/"/>
+            <outline type="rss" text="教授の実験室" title="教授の実験室" xmlUrl="https://kyouju11.hatenablog.com/feed" htmlUrl="https://kyouju11.hatenablog.com/"/>
+            <outline type="rss" text="カメラ・ガジェット・旅好き20代男子のライフスタイルマガジン&quot;webledge（ウェブレッジ）&quot;" title="カメラ・ガジェット・旅好き20代男子のライフスタイルマガジン&quot;webledge（ウェブレッジ）&quot;" xmlUrl="http://webledge-blog.com/feed/" htmlUrl="https://webledge-blog.com"/>
+            <outline type="rss" text="hamako9999.net" title="hamako9999.net" xmlUrl="http://hamako9999.net/feed/" htmlUrl="http://hamako9999.net"/>
+            <outline type="rss" text="とある現実逃避の日記" title="とある現実逃避の日記" xmlUrl="https://hogehoge0919.hatenablog.com/feed" htmlUrl="https://hogehoge0919.hatenablog.com/"/>
+            <outline type="rss" text="shimajiro@mobiler" title="shimajiro@mobiler" xmlUrl="http://shimajiro-mobiler.net/feed/" htmlUrl="http://shimajiro-mobiler.net"/>
+            <outline type="rss" text="digy" title="digy" xmlUrl="https://digy.jp/feed/" htmlUrl="https://digy.jp"/>
+            <outline type="rss" text="どんちゃんのひまつぶし" title="どんちゃんのひまつぶし" xmlUrl="https://www.d0nchan.com/feed" htmlUrl="https://www.d0nchan.com/"/>
+            <outline type="rss" text="歌うデブのブログ" title="歌うデブのブログ" xmlUrl="https://localog.wordpress.com/feed/" htmlUrl="https://konicos.com"/>
+            <outline type="rss" text="Cellular Dog" title="Cellular Dog" xmlUrl="https://cellularfonedog.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://cellularfonedog.blogspot.com/"/>
+            <outline type="rss" text="後ろへ向かって前進 Act.2" title="後ろへ向かって前進 Act.2" xmlUrl="https://www.blogger.com/feeds/4045468468576327629/posts/default" htmlUrl="http://www.ragemax.com/"/>
+            <outline type="rss" text="トバログ" title="トバログ" xmlUrl="http://tobalog.com/feed/" htmlUrl="https://tobalog.com"/>
+            <outline type="rss" text="瑛司とブログ" title="瑛司とブログ" xmlUrl="http://theredswing501.hatenadiary.com/feed" htmlUrl="http://theredswing501.hatenadiary.com/"/>
+            <outline type="rss" text="自作とゲームと趣味の日々" title="自作とゲームと趣味の日々" xmlUrl="http://blog.livedoor.jp/wisteriear/index.rdf" htmlUrl="https://jisakuhibi.jp/"/>
+            <outline type="rss" text="しょぼんブログ" title="しょぼんブログ" xmlUrl="https://syobon.jp/feed/" htmlUrl="https://syobon.jp"/>
+            <outline type="rss" text="ひらちょんの中華端末隔離倉庫" title="ひらちょんの中華端末隔離倉庫" xmlUrl="http://hirachon.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://hirachon.blogspot.com/"/>
+            <outline type="rss" text="すぐるのモバイル雑記Ver2" title="すぐるのモバイル雑記Ver2" xmlUrl="http://sgr-mobile-ex.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://sgr-mobile-ex.blogspot.com/"/>
+            <outline type="rss" text="ソニーが基本的に好き。" title="ソニーが基本的に好き。" xmlUrl="http://kunkoku.com/feed" htmlUrl="http://kunkoku.com"/>
+            <outline type="rss" text="Yahoo! JAPAN Tech Blog" title="Yahoo! JAPAN Tech Blog" xmlUrl="http://techblog.yahoo.co.jp/atom.xml" htmlUrl="https://techblog.yahoo.co.jp/"/>
+            <outline type="rss" text="こまめブログ" title="こまめブログ" xmlUrl="http://little-beans.net/feed/" htmlUrl="https://little-beans.net"/>
+            <outline type="rss" text="ふーてんのiPad" title="ふーてんのiPad" xmlUrl="http://hu-ten.com/?feed=rss2" htmlUrl="https://hu-ten.com"/>
+            <outline type="rss" text="Publickey" title="Publickey" xmlUrl="http://www.publickey1.jp/atom.xml" htmlUrl="https://www.publickey1.jp/"/>
+            <outline type="rss" text="NEWSTALKER" title="NEWSTALKER" xmlUrl="http://newstalker.net/feed/" htmlUrl="http://newstalker.net"/>
+            <outline type="rss" text="murashun.jp" title="murashun.jp" xmlUrl="https://murashun.jp/atom.xml"/>
+            <outline type="rss" text="スマヤス。" title="スマヤス。" xmlUrl="http://www.smayasu.info/feed/" htmlUrl="https://www.smayasu.info"/>
+        </outline>
+        <outline text="技術" title="技術">
+            <outline type="rss" text="InfoQ - ニュース" title="InfoQ - ニュース" xmlUrl="http://www.infoq.com/jp/feed/news" htmlUrl="https://www.infoq.com/jp"/>
+            <outline type="rss" text="マイナビニュース 企業IT 開発/エンジニア" title="マイナビニュース 企業IT 開発/エンジニア" xmlUrl="http://feeds.journal.mycom.co.jp/rss/mycom/enterprise/engineer" htmlUrl="http://news.mynavi.jp/top/business/enterprise/engineer/"/>
+            <outline type="rss" text="Webクリエイターボックス" title="Webクリエイターボックス" xmlUrl="http://www.webcreatorbox.com/feed/" htmlUrl="https://www.webcreatorbox.com"/>
+        </outline>
+    </body>
+</opml>

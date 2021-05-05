@@ -1,0 +1,2 @@
+# My feedly sources
+私がFeedlyに登録しているWebサイトです。お好きなRSSリーダーにOPMLファイルをインポートできます。
