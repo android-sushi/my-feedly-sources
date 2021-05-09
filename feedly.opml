@@ -114,7 +114,7 @@
             <outline type="rss" text="Microsoft News Japan" title="Microsoft News Japan" xmlUrl="http://microsoftnews.hatenablog.jp/feed" htmlUrl="https://microsoftnews.hatenablog.jp/"/>
             <outline type="rss" text="Wi-Fi Alliance RSS Feed" title="Wi-Fi Alliance RSS Feed" xmlUrl="https://www.wi-fi.org/media.xml" htmlUrl="https://www.wi-fi.org/media.xml"/>
             <outline type="rss" text="ASUS Press Room" title="ASUS Press Room" xmlUrl="http://press.asus.com/feed/" htmlUrl="http://press.asus.com"/>
-            <outline type="rss" text="スマートフォン・タブレット・携帯電話 - FMWORLD.NET（個人） : FCNT" title="スマートフォン・タブレット・携帯電話 - FMWORLD.NET（個人） : FCNT" xmlUrl="http://www.fmworld.net/product/phone/rss/top-news.xml" htmlUrl="http://www.fmworld.net/product/phone/"/>
+            <outline type="rss" text="スマートフォン・タブレット・携帯電話 - FMWORLD.NET（個人） : FCNT" title="スマートフォン・タブレット・携帯電話 - FMWORLD.NET（個人） : FCNT" xmlUrl="http://www.fmworld.net/product/phone/rss/top-news.xml" htmlUrl="https://www.fmworld.net/product/phone/"/>
             <outline type="rss" text="au 製品アップデート情報" title="au 製品アップデート情報" xmlUrl="https://www.au.com/rss/update.xml" htmlUrl="https://www.au.com/information/notice_mobile/update.html"/>
         </outline>
         <outline text="海外" title="海外">
@@ -145,6 +145,7 @@
             <outline type="rss" text="Geekles" title="Geekles" xmlUrl="http://sp-pedia.com/feed/" htmlUrl="https://geekles.net"/>
             <outline type="rss" text="毎日ことば" title="毎日ことば" xmlUrl="https://mainichi-kotoba.jp/feed" htmlUrl="https://mainichi-kotoba.jp"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://mono-conque.st/index.xml" htmlUrl="https://mono-conque.st/"/>
+            <outline type="rss" text="Simple Minimal Life" title="Simple Minimal Life" xmlUrl="https://simpleminimal-life.com/feed/" htmlUrl="https://simpleminimal-life.com"/>
             <outline type="rss" text="ガジェットライフ" title="ガジェットライフ" xmlUrl="http://gadget-life.xyz/feed" htmlUrl="https://gadget-life.xyz"/>
             <outline type="rss" text="mobile-gz" title="mobile-gz" xmlUrl="http://mobile-g.hatenablog.com/rss" htmlUrl="https://mobile-g.hatenablog.com/"/>
             <outline type="rss" text="虚構新聞社（Kyoko Shimbun News）" title="虚構新聞社（Kyoko Shimbun News）" xmlUrl="http://kyoko-np.net/index.xml" htmlUrl="http://kyoko-np.net/"/>
@@ -152,6 +153,7 @@
             <outline type="rss" text="Progate Tech Blog" title="Progate Tech Blog" xmlUrl="https://tech.prog-8.com/feed" htmlUrl="https://tech.prog-8.com/"/>
             <outline type="rss" text="ゆるガジェCHANNEL" title="ゆるガジェCHANNEL" xmlUrl="http://yurugadge-channel.com/index.rdf" htmlUrl="http://yurugadge-channel.com/"/>
             <outline type="rss" text="mugyukkinの日記" title="mugyukkinの日記" xmlUrl="http://mugyukkin.hatenablog.com/feed" htmlUrl="https://mugyukkin.hatenablog.com/"/>
+            <outline type="rss" text="捨てられたメガホンのブログ" title="捨てられたメガホンのブログ" xmlUrl="https://m-p1103.hatenablog.com/rss" htmlUrl="https://m-p1103.hatenablog.com/"/>
             <outline type="rss" text="河童丸の妄言ブログLittleparty" title="河童丸の妄言ブログLittleparty" xmlUrl="http://kplparty.blog.fc2.com/?xml" htmlUrl="http://kplparty.blog.fc2.com/"/>
             <outline type="rss" text="droSma" title="droSma" xmlUrl="https://drosma.net/feed/" htmlUrl="https://drosma.net"/>
             <outline type="rss" text="スマフォ情報局" title="スマフォ情報局" xmlUrl="http://web.tank.jp/phone/?feed=rss2" htmlUrl="http://web.tank.jp/phone"/>
@@ -194,6 +196,7 @@
             <outline type="rss" text="技術ブログとは" title="技術ブログとは" xmlUrl="https://www.ryuzoji.com/feed" htmlUrl="https://www.ryuzoji.com"/>
             <outline type="rss" text="深夜2時の珈琲タイム" title="深夜2時の珈琲タイム" xmlUrl="http://tarokappa.hatenablog.com/feed" htmlUrl="http://tarokappa.hatenablog.com/"/>
             <outline type="rss" text="幽玄会社中山商店" title="幽玄会社中山商店" xmlUrl="http://nakayama.tailwind.bz/?mode=rss" htmlUrl="http://nakayama.tailwind.bz"/>
+            <outline type="rss" text="Sweet Escape" title="Sweet Escape" xmlUrl="http://keisuke69.hatenablog.jp/feed" htmlUrl="https://www.keisuke69.net/"/>
             <outline type="rss" text="デジタルガジェット備忘録" title="デジタルガジェット備忘録" xmlUrl="http://digital-memo.blogspot.com/feeds/posts/default" htmlUrl="https://digital-memo.blogspot.com/"/>
             <outline type="rss" text="ブルーメソッド" title="ブルーメソッド" xmlUrl="http://blue-method.hatenablog.com/feed" htmlUrl="https://blue-method.hatenablog.com/"/>
             <outline type="rss" text="ペイの実" title="ペイの実" xmlUrl="https://paynomi.com/feed" htmlUrl="https://paynomi.com"/>
